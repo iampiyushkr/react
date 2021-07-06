@@ -1,0 +1,48 @@
+.join {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: red;
+}
+.login {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.search {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: green;
+}
+.home {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgb(199, 174, 174);
+}
+.contactus {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: gray;
+}
+.help {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: tan;
+}
+.download {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: goldenrod;
+}
+.setting {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: greenyellow;
+}
